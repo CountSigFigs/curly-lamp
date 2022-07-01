@@ -1,6 +1,6 @@
 {
   "name": "@countsigfigs/is-foo",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "is foo passed in",
   "main": "index.js",
   "scripts": {
