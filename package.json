@@ -1,0 +1,22 @@
+{
+  "name": "@countsigfigs/is-foo",
+  "version": "1.0.0",
+  "description": "is foo passed in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CountSigFigs/curly-lamp.git"
+  },
+  "keywords": [
+    "foo"
+  ],
+  "author": "brian holt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CountSigFigs/curly-lamp/issues"
+  },
+  "homepage": "https://github.com/CountSigFigs/curly-lamp#readme"
+}
